@@ -10,6 +10,6 @@
   <img src="https://img.shields.io/badge/html5-E34F26=flat-square&logo=html5&logoColor=white"/></a>&nbsp 
   <br>
   <img src="https://img.shields.io/badge/pytorch-EE4C2C=flat-square&logo=pytorch&logoColor=white"/></a>&nbsp 
-  <img src="https://img.shields.io/badge/scikit-learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white"/></a>&nbsp 
+  <img src="https://img.shields.io/badge/scikit-learn-F7931E?style=flat-square&logo=scikitlearn&logoColor=white"/></a>&nbsp 
   <img src="https://img.shields.io/badge/Vue.js-4FC08D?style=flat-square&logo=vue.js&logoColor=white"/></a>&nbsp 
 </p>
