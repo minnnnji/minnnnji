@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=wave&height=350&color=gradient&text=%20MinjiEom@minnnnji%20&animation=fadeIn&fontColor=ffffff&fontsize=100&&textBg=True)
+![header](https://capsule-render.vercel.app/api?type=wave&height=350&color=gradient&text=%20MinjiEom%20&animation=fadeIn&fontColor=ffffff&fontsize=100&&textBg=True)
 
 <h3 align="center">🛠 Tech Stack 🛠</h3>
 
@@ -19,3 +19,5 @@
   <img src="https://img.shields.io/badge/instagram-E4405F?style=flat&logo=instagram&logoColor=white"/>&nbsp 
   <a href="https://www.kaggle.com/minzzzzi"><img src="https://img.shields.io/badge/kaggle-20BEFF?style=flat&logo=kaggle&logoColor=white"/></a>&nbsp 
 </p>
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=minnnnji&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
