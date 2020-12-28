@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=wave&height=350&color=gradient&text=%20MinjiEom\n@minnnnji%20&animation=fadeIn&fontColor=ffffff&fontsize=100&&textBg=True)
+![header](https://capsule-render.vercel.app/api?type=wave&height=350&color=gradient&text=%20MinjiEom@minnnnji%20&animation=fadeIn&fontColor=ffffff&fontsize=100&&textBg=True)
 
 <h3 align="center">🛠 Tech Stack 🛠</h3>
 
