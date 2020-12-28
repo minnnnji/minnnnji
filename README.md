@@ -9,7 +9,7 @@
   <img src="https://img.shields.io/badge/css-1572B6?style=flat&logo=css3&logoColor=white"/></a>&nbsp 
   <img src="https://img.shields.io/badge/html5-E34F26?style=flat&logo=html5&logoColor=white"/></a>&nbsp 
   <br>
-  <img src="https://img.shields.io/badge/pytorch-EE4C2C?style=flat&logo=py-torch&logoColor=white"/></a>&nbsp 
+  <img src="https://img.shields.io/badge/Pytorch-EE4C2C?style=flat&logo=pytorch&logoColor=white"/></a>&nbsp 
   <img src="https://img.shields.io/badge/scikit-learn-F7931E?style=flat&logo=scikit-learn&logoColor=white"/></a>&nbsp 
   <img src="https://img.shields.io/badge/Vue.js-4FC08D?style=flat&logo=vue.js&logoColor=white"/></a>&nbsp 
 </p>
