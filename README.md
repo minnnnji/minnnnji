@@ -14,7 +14,7 @@
   <img src="https://img.shields.io/badge/Vue.js-4FC08D?style=flat&logo=vue.js&logoColor=white"/>&nbsp 
 </p>
 
-<h3 align="center">✨Contact✨</h3>
+<h3 align="center">✨More✨</h3>
 <p align="center">
   <img src="https://img.shields.io/badge/instagram-E4405F?style=flat&logo=instagram&logoColor=white"/>&nbsp 
   <a href="https://www.kaggle.com/minzzzzi"><img src="https://img.shields.io/badge/kaggle-20BEFF?style=flat&logo=kaggle&logoColor=white"/></a>&nbsp 
