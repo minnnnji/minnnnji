@@ -18,6 +18,7 @@
 <p align="center">
   <img src="https://img.shields.io/badge/instagram-E4405F?style=flat&logo=instagram&logoColor=white"/>&nbsp 
   <a href="https://www.kaggle.com/minzzzzi"><img src="https://img.shields.io/badge/kaggle-20BEFF?style=flat&logo=kaggle&logoColor=white"/></a>&nbsp 
+  <a href="https://mingtory.tistory.com"><img src="https://img.shields.io/badge/blogger-FF5722?style=flat&logo=blogger&logoColor=white"/>&nbsp 
 </p>
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=minnnnji&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
