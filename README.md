@@ -14,12 +14,8 @@
   <img src="https://img.shields.io/badge/Vue.js-4FC08D?style=flat&logo=vue.js&logoColor=white"/>&nbsp 
 </p>
 
-<h3 align="center">✨More✨</h3>
-<p align="center">
-   
-  <div style="display: flex; align-items: flex-start;"><a href="https://www.kaggle.com/minzzzzi"><img src="https://img.shields.io/badge/kaggle-20BEFF?style=flat&logo=kaggle&logoColor=white"/></a>&nbsp<img src="https://techstack-generator.vercel.app/github-icon.svg" alt="icon" width="34" height="34" />
+<h3 align="center">✨More✨</h3>   
+  <div align="center" style="display: flex; align-items: flex-start;"><a href="https://www.kaggle.com/minzzzzi"><img src="https://img.shields.io/badge/kaggle-20BEFF?style=flat&logo=kaggle&logoColor=white"/></a>&nbsp<img src="https://techstack-generator.vercel.app/github-icon.svg" alt="icon" width="34" height="34" />
     <a href="https://mingtory.tistory.com"><img src="https://img.shields.io/badge/tistory-FF5722?style=flat&logo=blogger&logoColor=white"/>&nbsp </div>
-  
-</p>
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=minnnnji&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
